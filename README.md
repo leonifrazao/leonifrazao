@@ -1,98 +1,78 @@
-<h1 align="center">Salve! Eu sou o Leoni Frazão 👋</h1>
-<p align="center">
-  Backend dev júnior • Python • C# • Java • SQL • C • JavaScript • CSS • Linux
-</p>
-<p align="center">
-  <a href="mailto:leoni.frazao.oliveira@gmail.com">✉️ E-mail</a> •
-  <a href="https://github.com/Gameriano1">🐙 GitHub</a>
-</p>
+<div align="center">
+  <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
+<h3 align="center">
+  Hi, I'm Leoni Frazão
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gameriano1&label=Visualiza%C3%A7%C3%B5es&style=flat" alt="visitas do perfil" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/leonifrazao/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=leonifrazao.leonifrazao"></a>
 </p>
 
 ---
 
-## 🚀 Sobre mim
-- 📍 São Bernardo do Campo — SP  
-- 📚 **Estudando:** C e Rust  
-- 💬 **Pergunte-me sobre:** Python e C#  
-- 🤝 **Curto colaborar com:** desenvolvimento de websites, automação e sistemas  
-- ⚡ **Curiosidade:** 18 anos
+- 👨‍💻 I'm constantly learning and exploring new technologies.
+- 💬 Ask me about my projects.
+- 🌱 I’m currently learning ...
+
+## 🛠 &nbsp;Tech Stack
+
+#### 🔧 Languages
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🖥️ Frameworks & Libraries
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### 🔧 Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📊 Profile Statistics
+
+ <div align=center>
+
+![](https://github-readme-stats.vercel.app/api?username=leonifrazao&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+<br>
+
+</div>
+ 
+ ### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonifrazao&theme=github_dark)
+  
+ </div>
+ 
+ 
+ ### 📈 Activity Graph
+ 
+ [![Leoni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leonifrazao&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
 
 ---
 
-## 🧰 Stack & Ferramentas
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-3C78D8?logo=python&logoColor=white" />
-</p>
+### 🔗 &nbsp;Contact Me
+
+<div align="center">
+<a href="mailto:leoni.frazao.oliveira@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/leonifrazao/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
 
 ---
-
-## 🏆 Projetos em destaque
-- **RaxySchool** — Análise das faltas na rede estadual de SP usando dados da SED (relatórios, gráficos e insights).  
-  `Python • Pandas • Tkinter`  
-  🔗 https://github.com/Gameriano1/RaxySchool
-
-- **sistema-estudos** — Sistema de gestão de estudos (CLI + API REST) para acompanhar matérias e progresso.  
-  `JavaScript`  
-  🔗 https://github.com/Gameriano1/sistema-estudos
-
-- **brasfoot-save-editor** — CLI para edição de save-game do jogo Brasfoot 2021.   
-  `Java • Bash`  
-  🔗 https://github.com/Gameriano1/brasfoot-save-editor
-
-- **Raxy-Microsoft** — Automação educacional do Microsoft Rewards (contém aviso legal no README).  
-  `Python`  
-  🔗 https://github.com/Gameriano1/Raxy-Microsoft
-
-- **BotComprar** — Bot simples relacionado a compras de Robux na Microsoft Store.  
-  `HTML • Python`  
-  🔗 https://github.com/Gameriano1/BotComprar
-
-
----
-
-## 📈 Métricas
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gameriano1&show_icons=true&hide_border=true" alt="stats" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=Gameriano1&hide_border=true" alt="streak" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gameriano1&layout=compact&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
-## 🎯 Roadmap de estudos
-- [x] Estruturas de dados e algoritmos (C)
-- [ ] Fundamentos de Rust (ownership/borrowing, lifetimes, crates)
-- [x] Python avançado (fastAPI/Flask, automação, testes)
-- [ ] Testes e qualidade (pytest, TDD, CI no GitHub Actions)
-- [ ] Banco de dados (modelagem, SQL avançado, Índices)
-- [ ] Docker & Linux (bash, processos, permissões)
-- [x] Boas práticas de backend (REST, autenticação, logging)
-
----
-
-## 🤝 Como colaborar
-- Abra uma **Issue** com ideia/bug
-- Envie um **Pull Request** (descrição clara + prints/GIFs)
-- Siga o padrão de **branch** e **commit** convencionais
-
----
-
-## 📫 Contato
-**leoni.frazao.oliveira@gmail.com**
