@@ -19,7 +19,7 @@
 
 - 👨‍💻 I'm constantly learning and exploring new technologies.
 - 💬 Ask me about my projects.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Math, Rust and C++
 
 ## 🛠 &nbsp;Tech Stack
 
