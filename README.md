@@ -1,6 +1,6 @@
 Hi, I'm Leoni Frazão
 
-BST Student at UFABC | Focused on Backend Engineering, Systems Automation, and Applied Machine Learning.
+BST Student at UFABC | Focused on Backend Engineering and Systems Automation.
 
 I build systems that solve real-world problems: from public education tools to geopolitical OSINT pipelines. I prioritize Hexagonal Architecture, Clean Code, and Defensive Programming.
 
