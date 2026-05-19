@@ -83,7 +83,7 @@ Contract Finalized ──▶ Kafka Event ──▶ Property Cache Invalidation �
 
 | Aspect | Implementation |
 |--------|---------------|
-| **AI Pipeline** | Python 3.12 · YOLOv8 · Gemini 1.5 Flash |
+| **AI Pipeline** | Python 3.12 · YOLOv8 · Gemini 3.0 Flash |
 | **Vector Store** | ChromaDB with tenant-isolated namespaces |
 | **Privacy** | `where={"company": "tenant_id"}` filtering prevents cross-tenant hallucinations |
 | **Resilience** | Pydantic structured outputs · Exponential backoff via Tenacity |
